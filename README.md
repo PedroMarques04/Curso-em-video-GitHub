@@ -1,2 +1,2 @@
-# Curso em video GitHub
+# Curso em vídeo GitHub
  Repositório do curso em vídeo
